@@ -1,5 +1,6 @@
 
 #include<stdio.h>
+// multiplication between any two numbers 
 int main ()
 {
     int a,b;
