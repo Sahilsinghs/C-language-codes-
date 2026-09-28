@@ -1,5 +1,5 @@
 #include<stdio.h>
-// program to find area of square of any integer value 
+// program to find area of square of any integer number  
 int main() {
 int side;
 printf("enter side");
