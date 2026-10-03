@@ -1,4 +1,5 @@
 #include<stdio.h>
+// program to check prime number 
 
 void main ()
 {
