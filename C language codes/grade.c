@@ -1,5 +1,5 @@
 #include<stdio.h>
-// program to give grade based on marks obtained
+// program to give grade based on marks obtained out off 100 
 int main()
 {
     float marks;
