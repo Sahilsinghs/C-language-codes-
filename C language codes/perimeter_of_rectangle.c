@@ -1,5 +1,5 @@
 #include<stdio.h>
-// This program calculates the perimeter of a rectangle of any integer length and width
+// This program calculates the perimeter of a rectangle of any integer  value of length and width.
 int main()
 {
     int length,width;
