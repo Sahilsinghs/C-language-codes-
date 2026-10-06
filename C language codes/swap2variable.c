@@ -1,5 +1,5 @@
 #include<stdio.h>
-// program to swap the 2 variable without using 3rd variable
+// program to swap the 2 variable without using 3rd variable.
 int main()
 {
     int x,y;
