@@ -1,5 +1,5 @@
 #include<stdio.h>
-// program to check the enter number is +ve or -ve.
+// program to check the entered number is +ve or -ve.
 int main()
 {
     int num;
