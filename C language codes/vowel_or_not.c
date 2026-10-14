@@ -1,6 +1,6 @@
 #include<stdio.h>
 // program to check enter alphabet is vowel or not 
-void main ()
+int main ()
 {
     char ch;
     printf("enter any alphabet: ");
@@ -21,5 +21,6 @@ void main ()
         break;
         default :printf("\n not vowel");
     }
+    return 0;
     }
 
